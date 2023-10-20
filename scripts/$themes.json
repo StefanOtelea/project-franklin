@@ -125,7 +125,8 @@
     "selectedTokenSets": {
       "global/global": "source",
       "themes/sutro/sutro": "enabled",
-      "figma/figma_styles": "enabled"
+      "figma/figma_styles": "enabled",
+      "Test set": "disabled"
     },
     "group": "Themes",
     "$figmaCollectionId": "VariableCollectionId:3637:78941",
@@ -184,7 +185,8 @@
     "selectedTokenSets": {
       "global/global": "source",
       "themes/golden_gate/golden_gate": "enabled",
-      "figma/figma_styles": "enabled"
+      "figma/figma_styles": "enabled",
+      "Test set": "disabled"
     },
     "group": "Themes",
     "$figmaCollectionId": "VariableCollectionId:3637:78941",
@@ -243,7 +245,8 @@
     "selectedTokenSets": {
       "global/global": "source",
       "themes/fort_point/fort_point": "enabled",
-      "figma/figma_styles": "enabled"
+      "figma/figma_styles": "enabled",
+      "Test set": "disabled"
     },
     "group": "Themes",
     "$figmaCollectionId": "VariableCollectionId:3637:78941",
@@ -302,7 +305,8 @@
     "selectedTokenSets": {
       "global/global": "source",
       "themes/presidio/presidio": "enabled",
-      "figma/figma_styles": "enabled"
+      "figma/figma_styles": "enabled",
+      "Test set": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3637:78941",
     "$figmaModeId": "3704:2",
@@ -506,7 +510,8 @@
       "pds.global.color.brand.baker.90": "S:24e61bc7e179017a2cf2e79b8c517e0d56afa8e4,"
     },
     "selectedTokenSets": {
-      "global/global": "enabled"
+      "global/global": "enabled",
+      "Test set": "disabled"
     },
     "group": "Globals",
     "$figmaCollectionId": "VariableCollectionId:3637:78769",
@@ -686,7 +691,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "global/global": "source",
-      "themes/baker/baker": "enabled"
+      "themes/baker/baker": "enabled",
+      "Test set": "disabled"
     },
     "group": "Themes",
     "$figmaCollectionId": "VariableCollectionId:3637:78941",
